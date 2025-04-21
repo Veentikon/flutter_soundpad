@@ -1,6 +1,7 @@
 # sound_pad
 
-A new Flutter project.
+A simple soundpad Flutter application where you have screen full of buttons each producing a unique sound.
+The app is configured to run on Android and Web.
 
 ## Getting Started
 
